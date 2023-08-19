@@ -4,9 +4,7 @@ Useful and easy to use math functions!
 ### Greater than Function
 + x > y; returns 1 or 0
 
-$$
-g(x, y) = \frac{|x-y| + x-y}{2(x-y)}
-$$
+$$g(x, y) = \frac{|x-y| + x-y}{2(x-y)}$$
 
 ### Pythagoras Function
 + input 0 into the variable that you want to solve 
